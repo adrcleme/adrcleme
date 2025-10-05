@@ -7,7 +7,7 @@ Here are some of the projects I’ve worked on 👇
 
 ## 📂 Selected Projects  
 
-- **Fine-Tuning DistilBERT & T5 for Text Classification and Generation**  
+- **Fine-Tuning LLM & Implenting RAG pipeline**  
   *Fine-tuned transformer model (Qwen3-0.6B-Base) to build an AI tutor that is specialized in course content at EPFL. Implemented a RAG pipeline with FAISS for efficient retrieval and evaluated using F1/Accuracy on SciQ, MMLU-STEM, and AI2-ARC datasets. EPFL repositery so it is private.*
   
 - [**Interactive Data Visualization – Rocket Launch History**](https://github.com/com-480-data-visualization/Fam)  
